@@ -24,7 +24,7 @@
 -----
 
 # SimuNEX
-SimuNEX is a high-fidelity dynamic simulation framework designed as a modular platform to simulate dynamic systems across various domains. It serves as a powerful tool for researchers, engineering students, and members of the Intelligent Systems Lab, offering a versatile environment for simulating complex systems and phenomena.
+SimuNEX is a high-fidelity dynamic simulation framework designed as a modular platform to simulate dynamic systems across various domains. It serves as a powerful tool for researchers, engineering students, and members of the Artificial Intelligence Innovation Centre, offering a versatile environment for simulating complex systems and phenomena.
 
 ## Getting Started
 1. **Install Unity**: The project is currently developed in [Unity](https://unity.com/) 2022.3.10f1 but it may be compatible with other versions.
